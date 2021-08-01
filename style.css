@@ -1,0 +1,36 @@
+h2{color: darkviolet;}
+h2{background-color: blue;}
+
+p{color: rebeccapurple;}
+p{background-color: lightseagreen;}
+
+h3{color: indigo;}
+h3{background-color: cyan;}
+h3{text-align: center;}
+
+h4{color: darkslateblue;}
+h4{background-color: deepskyblue;}
+
+a{color: darkmagenta;}
+
+
+
+*{background-color: blueviolet;} 
+
+.header{background-color: darkmagenta;
+display: flex;
+justify-content: center;
+flex-direction: column;
+text-align: center;
+}
+
+.grid{background-color: midnightblue;
+display: flex;    
+justify-content: space-between;
+flex-wrap: wrap;
+text-align: center;
+flex-direction: row;
+}
+
+
+
